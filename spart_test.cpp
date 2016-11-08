@@ -30,6 +30,8 @@
 
 #include "spart.hpp"
 
+#include <limits.h>
+
 #include <vector>
 
 #include "greatest.h"
