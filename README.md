@@ -54,7 +54,7 @@ Some observations from these results:
     applications, which is n log n.
   - natural expectedly performs well when few changes are needed.
 
-[post]: http://www.hardtoc.com/somewhere
+[post]: http://hardtoc.com/2016/11/07/reordering-arguments.html
 
 
 License
